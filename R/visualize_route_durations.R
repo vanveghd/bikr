@@ -2,9 +2,8 @@
 # (c) Daniel Van Veghel, 2021
 
 #' Visualize the Trip Durations field of the BikeShare Data
-#'
+#' @param {} No parameters needed; the function is designed to display the dataframe's TripDuration data.
 #' @export
-#'
 
 visualize_route_durations <- function(){
   data("bikesharedata")

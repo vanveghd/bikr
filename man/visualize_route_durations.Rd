@@ -6,6 +6,9 @@
 \usage{
 visualize_route_durations()
 }
+\arguments{
+\item{{}}{No parameters needed; the function is designed to display the dataframe's TripDuration data.}
+}
 \description{
 Visualize the Trip Durations field of the BikeShare Data
 }

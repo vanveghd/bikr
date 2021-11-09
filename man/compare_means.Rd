@@ -25,3 +25,7 @@ The t value of the associated small two-sample t-test, and the associated p-valu
 \description{
 Determine the statistical significance of the difference in two different sample means.
 }
+\examples{
+compare_means(12, 15, 20, 30, 40, 45)
+
+}
