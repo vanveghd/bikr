@@ -4,18 +4,12 @@
 \name{bikr-package}
 \alias{bikr}
 \alias{bikr-package}
-\title{bikr: About the Package (One Line, Title Case)}
+\title{bikr: An R package for simple Bike Share analysis}
 \usage{
 library(bikr)
 }
 \description{
 This package provides an example BikeShare trip dataset from Pittsburgh BikeShare (available for download at []()), as well as several scripts to analyze these trips. Package scripts can produce maps and statistical analysis (graphs, histograms) from trip data.
-
-This package provides a range of functions varying in depth of analysis,
-for a sample BikeShare Dataset available publicly
-from (https://www.kaggle.com/adamscarroll/pittsburgh-healthy-ride-bikeshare-rentals-2021-q1/metadata).
-The package also provides several tools and scripts for visualizing route distribution,
-characteristics, lengths, as well as cross-analyzing all of these characteristics by ride-types.
 }
 \references{
 \url{https://github.com/vanveghd/bikr}
@@ -28,7 +22,7 @@ Useful links:
 
 }
 \author{
-\strong{Maintainer}: First Last \email{first.last@example.com} (\href{https://orcid.org/YOUR-ORCID-ID}{ORCID})
+\strong{Maintainer}: Daniel Van Veghel \email{vanveghd@mcmaster.ca}
 
 
 Daniel Van Veghel, School of Earth, Environment and Society, McMaster University \email{vanveghd@mcmaster.ca}

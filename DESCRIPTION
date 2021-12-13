@@ -1,9 +1,8 @@
 Package: bikr
-Title: About the Package (One Line, Title Case)
+Title: An R package for simple Bike Share analysis
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
+    person("Daniel", "Van Veghel", , "vanveghd@mcmaster.ca", role = c("aut", "cre"))
 Description: This package provides an example BikeShare trip dataset from Pittsburgh BikeShare (available for download at []()), as well as several scripts to analyze these trips. Package scripts can produce maps and statistical analysis (graphs, histograms) from trip data.
 License: MIT + file LICENSE
 Encoding: UTF-8

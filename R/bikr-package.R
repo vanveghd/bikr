@@ -5,6 +5,7 @@
 ## usethis namespace: end
 NULL
 
+#' @title bikr: A package for basic BikeShare trip analysis.
 #' bikr: A package for basic BikeShare trip analysis.
 #'
 #' This package provides a range of functions varying in depth of analysis,
